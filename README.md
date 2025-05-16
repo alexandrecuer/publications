@@ -19,6 +19,6 @@
 [Couplen, un système d'information géographique pour l'exploitation de la route - Partie 1 - RGRA 862](RGRA862_couplen_SIG_exploitation_route.pdf)
 
 [DAMPING IDENTIFICATION IN MULTI-DEGREE-OF-FREEDOM SYSTEMS VIA A WAVELET-LOGARITHMIC DECREMENT—PART 1: THEORY - Journal of Sound
-and Vibration - Vol 235](https://www.deepdyve.com/lp/elsevier/damping-identification-in-multi-degree-of-freedom-systems-via-a-JqV4zKhmnA)
+and Vibration - Vol 235](https://www.sciencedirect.com/science/article/abs/pii/S0022460X99929280)
 
 RGRA : Revue générale des routes et de l'aménagement
