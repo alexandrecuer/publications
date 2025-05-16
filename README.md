@@ -1,5 +1,9 @@
 # Alexandre CUER - Publications
 
+https://www.sciencedirect.com/science/article/pii/S2352152X25004827
+
+https://www.cerema.fr/fr/actualites/route-recuperatrice-energie-solaire-alimenter-batiment
+
 [chaussées chauffantes et récupératrices d'énergie - RGRA 940](RGRA940_chaussées_hors_gel_récupératrices_d_energie.pdf)
 
 [Couplen, un système d'information géographique pour l'exploitation de la route - Partie 2 - RGRA 863](RGRA863_couplen_SIG_exploitation_route.pdf)
