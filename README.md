@@ -1,10 +1,10 @@
 # Alexandre CUER - Publications
 
-https://www.sciencedirect.com/science/article/pii/S2352152X25004827
+[Numerical and experimental study of an underground thermal energy storage system coupled with asphalt solar collector and heat pump](https://www.sciencedirect.com/science/article/pii/S2352152X25004827)
 
-https://www.cerema.fr/fr/actualites/route-recuperatrice-energie-solaire-alimenter-batiment
+[Une route récupératrice d'énergie solaire pour alimenter un bâtiment en énergie renouvelable : le projet Dromotherm](https://www.cerema.fr/fr/actualites/route-recuperatrice-energie-solaire-alimenter-batiment)
 
-https://www.sft.asso.fr/DOIeditions/CFT2022/Abstracts/p75.html
+[Etude d’un systeme de valorisation de l’energie thermique des routes pour les besoins des batiments](https://www.sft.asso.fr/DOIeditions/CFT2022/Abstracts/p75.html)
 
 [chaussées chauffantes et récupératrices d'énergie - RGRA 940](RGRA940_chaussées_hors_gel_récupératrices_d_energie.pdf)
 
